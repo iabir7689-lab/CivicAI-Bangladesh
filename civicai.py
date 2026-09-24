@@ -89,6 +89,9 @@ def get_area_summary(df):
     return x.sort_values("reports", ascending=False)
 
 def seed_demo_data(path):
+    path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+
     demo = [
         ["1001","Citizen","Dhaka","Mirpur 10","Heavy rainfall has caused severe waterlogging and vehicles are blocked.","Waterlogging / Flood","Critical",92,100,"Reported","2026-09-25 00:10:00"],
         ["1002","Citizen","Chattogram","Agrabad","Garbage is overflowing beside the market.","Waste Management","High",91,74,"In Progress","2026-09-25 00:08:00"],

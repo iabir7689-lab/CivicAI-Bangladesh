@@ -1,0 +1,7 @@
+id,reporter,district,area,description,category,severity,confidence,priority_score,status,created_at
+1001,Citizen,Dhaka,Mirpur 10,Heavy rainfall has caused severe waterlogging and vehicles are blocked.,Waterlogging / Flood,Critical,92,100,Reported,2026-09-25 00:10:00
+1002,Citizen,Chattogram,Agrabad,Garbage is overflowing beside the market.,Waste Management,High,91,74,In Progress,2026-09-25 00:08:00
+1003,Citizen,Rajshahi,City Center,A large pothole is damaging vehicles.,Road Damage,High,84,69,Reported,2026-09-25 00:05:00
+1004,Citizen,Sylhet,Zindabazar,Street light is not working at night.,Street Lighting,Low,88,31,Resolved,2026-09-24 23:55:00
+1005,Citizen,Dhaka,Uttara,Traffic congestion is causing long delays.,Traffic / Mobility,Medium,90,51,Reported,2026-09-24 23:40:00
+1006,Citizen,Khulna,Sonadanga,Drain overflow creates an unsafe public health condition.,Public Health,High,90,72,Reported,2026-09-24 23:20:00
